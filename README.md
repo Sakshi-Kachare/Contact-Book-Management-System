@@ -75,11 +75,6 @@ Contact-Book-Management-System/
 - Add input validation for phone numbers and email addresses.
 - Develop a graphical user interface (GUI).
 
-## 👩‍💻 Author
-
-**Sakshi Kachare**
-
-MCA Student | BCS Graduate
 
 Email:sakshikachare444@gmail.com
 
